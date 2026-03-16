@@ -1,0 +1,7 @@
+interface:
+  display_name: "拆书成 Skill"
+  short_description: "把书锻造成可安装技能"
+  default_prompt: "使用 $book2skill 把这本非虚构书转成可复用的 skill 包。"
+
+policy:
+  allow_implicit_invocation: true
